@@ -158,7 +158,6 @@ input[type='checkbox'] + span {
   color: #fff;
   background-color: transparent;
   border: 1px solid currentColor;
-
 }
 
 .search-form__submit-button {
@@ -166,10 +165,11 @@ input[type='checkbox'] + span {
 }
 
 .content__details {
+  width: 450px;
   display: flex;
   flex-direction: column;
   padding-left: 30px;
-  align-content: flex-start;
+
 }
 
 .title {
